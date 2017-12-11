@@ -1,0 +1,24 @@
+img{ width:100%; height:100%; }
+a.textNavBtn:hover{background: #ecf0f7; }
+.adimg{width:90%; height:90%;}
+.boardImg{ width:90%; height:90%; margin-left: 5%; margin-right: 5%; margin-top: 3%;}
+.textBtn { font-size: 13px; color: #000000; text-decoration:none; }
+.textNavBtn {font-size: 12px; color: #000000; text-decoration:none; font-weight: bold; text-align: center;}
+	.wrapper{ width:80%; height:850px; margin:auto; }
+		.mainImgLayout { width:100%; height:7%; }
+			.mainLogoImgs {width:20%; height:100%; float: left;}
+			.memberBtns {width:20%; height:100%; float: right; text-align: right; padding-right: 20px;}
+		.mainNavBarLay { width:100%; height:5%; background-color: #ecf0f7;}
+			.navBarMenus{ width:80%; height:100%; margin: auto;}
+				.navMenu{width: 10%; height:100%; float:left;}
+		.imgs {width:100%; height:28%; background-color: #348272;}
+		.imgMenuLayout {width:100%; height:13%; background-color: #ffed43; margin-top: 10px; margin-bottom: 10px;}
+			.smenu {width:12.5%; height:100%; float: left; }
+		.boardAds {width:100%; height:38%;}
+			.navBarMenus3 {width: 100%; height: 100%; margin:auto; }
+				.adBarMenus {width:50%; height:100%;  float: left; }
+				.adBarMenus2 {width:50%; height:100%; float: left;}
+					.quarterMenu {width:50%; height:50%; float: left;}
+						.adImg {width:90%; height:80%; margin:5%;}
+
+		.footer {width:100%; height:9%; background-color: #abcdef;}}
